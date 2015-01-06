@@ -1,0 +1,10 @@
+Django==1.6
+South==0.8.2
+djangorestframework==2.3.13
+# django-dynamic-fixture==1.6.5
+# django-nose==1.2
+# django-debug-toolbar==0.11.0
+# django-webtest==1.7.5
+# Unipath==1.0
+# Markdown==2.4.1
+# django-cron==0.3.4
